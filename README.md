@@ -1,6 +1,6 @@
 # Data-Science-Practices-and-Skilled-oriented-Projects
 
-Welcome to my repository where I showcase my work in data science and related fields. Here, you'll find a collection of projects that demonstrate my skills and knowledge in machine learning, deep learning, AI, and different programming languages and software.
+Welcome to my personal repository where I showcase my work in data science and related fields. Here, you'll find a collection of projects that demonstrate my skills and knowledge in machine learning, deep learning, AI, and different programming languages and software.
 
 For a comprehensive look at what I can do in the field of data science, be sure to check out my [IBM-Data-Science-Professional-Certification project](https://github.com/Feem-NS/IBM-Data-Science-Professional-Certification/tree/main/IBM-Module-10%20Applied-Data-Science-Capstone%20(Project)). It provides a thorough overview of my abilities and a well-presented end-to-end project.
 
