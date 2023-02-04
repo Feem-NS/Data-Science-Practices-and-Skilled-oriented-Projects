@@ -7,4 +7,4 @@ For a comprehensive look at what I can do in the field of data science, be sure 
 I'm always eager to learn and expand my skills, so I'll be updating this repository with more exciting projects in the future. Stay tuned!
 
 I've been actively honing my skills in these areas: spreadsheets, SQL databases, coding in R, Julia, and Python, object-oriented programming, optimization, exploratory data analysis, data extraction through web scraping and APIs, data cleaning, data transformation, data visualization, statistics and probability, modeling and simulation, machine learning, deep learning, natural language processing, computer vision, and dashboard creation.
-![image](https://user-images.githubusercontent.com/107760967/216756337-019b3ddd-15e5-42fa-8d82-9693511833af.png)
+
