@@ -2,7 +2,7 @@
 
 Welcome to my repository where I showcase my work in data science and related fields. Here, you'll find a collection of projects that demonstrate my skills and knowledge in machine learning, deep learning, AI, and different programming languages and software.
 
-For a comprehensive look at what I can do in the field of data science, be sure to check out my [IBM-Data-Science-Professional-Certification project] (https://github.com/Feem-NS/IBM-Data-Science-Professional-Certification). It provides a thorough overview of my abilities and a well-presented end-to-end project.
+For a comprehensive look at what I can do in the field of data science, be sure to check out my [IBM-Data-Science-Professional-Certification project](https://github.com/Feem-NS/IBM-Data-Science-Professional-Certification). It provides a thorough overview of my abilities and a well-presented end-to-end project.
 
 I'm always eager to learn and expand my skills, so I'll be updating this repository with more exciting projects in the future. Stay tuned!
 
