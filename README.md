@@ -18,7 +18,6 @@ I have been awarded **[the Data Scientist Track Certificate](https://learn.365da
 
 **[MITx's Computational Thinking using Python XSeries Program](https://www.edx.org/xseries/mitx-computational-thinking-using-python)**
 ![edX1](https://user-images.githubusercontent.com/107760967/219264526-e3981e20-656f-4502-9111-f5f9c662a626.jpg)
-
 ![edX2](https://user-images.githubusercontent.com/107760967/219264550-2221105b-73d1-4ba3-8df4-0cc5f3b356bb.jpg)
 
 **[Chulalongkorn University's Data Science Pathway](https://www.chulamoocachieve.com/pathway/data-science)**
