@@ -20,7 +20,12 @@ I have been awarded **[the Data Scientist Track Certificate](https://learn.365da
 ![edX1](https://user-images.githubusercontent.com/107760967/219264526-e3981e20-656f-4502-9111-f5f9c662a626.jpg)
 ![edX2](https://user-images.githubusercontent.com/107760967/219264550-2221105b-73d1-4ba3-8df4-0cc5f3b356bb.jpg)
 
-**[Chulalongkorn University's Data Science Pathway](https://www.chulamoocachieve.com/pathway/data-science)**
+**[Chulalongkorn University's Data Science Pathway - 3-month courses](https://www.chulamoocachieve.com/pathway/data-science)**
+- Course 1 : Competing in a Data-Driven World Understand and Know-How
+- Course 2 : Data Analytics and Big Data
+- Course 3 : Practical Data Analytics Using RapidMiner
+- Course 4 : Python for Data Science
+- PATHWAY TEST: DATA SCIENCE PATHWAY
 ![VQWDA-Data Science Pathway pdf_1](https://user-images.githubusercontent.com/107760967/219264139-c2765d1f-bacb-426c-aa7f-f6afe79bd8d2.jpg)
 
 **[Certified Professional Data Analyst](https://badgr.com/public/assertions/1RtzZFwLTPuzncX8zos6uA?action=download)**
