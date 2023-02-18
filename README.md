@@ -17,10 +17,12 @@ I have been awarded **[the Data Scientist Track Certificate](https://learn.365da
 ![DD-E1FE7DE78B-Data Scientist Career Track pdf_1](https://user-images.githubusercontent.com/107760967/219263089-02c71a49-74a1-4d7a-ba58-7ae85cb82ddd.jpg)
 
 **[MITx's Computational Thinking using Python XSeries Program](https://www.edx.org/xseries/mitx-computational-thinking-using-python)**
+Introduction to Computer Science and Programming Using Python covers the notion of computation, the Python programming language, some simple algorithms, testing and debugging, and informal introduction to algorithmic complexity, and some simple algorithms and data structures. 
 ![edX1](https://user-images.githubusercontent.com/107760967/219264526-e3981e20-656f-4502-9111-f5f9c662a626.jpg)
+Introduction to Computational Thinking and Data Science covers how to use computation to accomplish a variety of goals and a brief introduction to a variety of topics in computational problem solving.
 ![edX2](https://user-images.githubusercontent.com/107760967/219264550-2221105b-73d1-4ba3-8df4-0cc5f3b356bb.jpg)
 
-**[Chulalongkorn University's Data Science Pathway - 3-month courses](https://www.chulamoocachieve.com/pathway/data-science)**
+**[Chulalongkorn University's Data Science Pathway: 3-month courses](https://www.chulamoocachieve.com/pathway/data-science)**
 - Course 1 : Competing in a Data-Driven World Understand and Know-How
 - Course 2 : Data Analytics and Big Data
 - Course 3 : Practical Data Analytics Using RapidMiner
