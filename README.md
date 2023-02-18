@@ -22,3 +22,11 @@ I have been awarded **[the Data Scientist Track Certificate](https://learn.365da
 
 **[Chulalongkorn University's Data Science Pathway](https://www.chulamoocachieve.com/pathway/data-science)**
 ![VQWDA-Data Science Pathway pdf_1](https://user-images.githubusercontent.com/107760967/219264139-c2765d1f-bacb-426c-aa7f-f6afe79bd8d2.jpg)
+
+**[Certified Professional Data Analyst](https://badgr.com/public/assertions/1RtzZFwLTPuzncX8zos6uA?action=download)**
+- Gained solid foundations on these topics: Spreadsheets, SQL databases, R, Python, Data Transformation, Data Visualization, Statistics, Intro to Machine Learning, Tableau and Data Studio
+- Successfully passed the final exam of Data Science Bootcamp (6-month program, 100 hours) by DataRockie
+![DataRockie School - Certified Professional Data Analyst - 2023-02-18](https://user-images.githubusercontent.com/107760967/219846087-dae358f3-2263-48b5-b021-1faf9db725fa.png)
+
+
+
